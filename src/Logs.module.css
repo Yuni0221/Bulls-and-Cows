@@ -1,0 +1,10 @@
+.title {
+  margin-top: 50px;
+}
+
+ol,
+li {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
